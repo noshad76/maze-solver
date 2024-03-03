@@ -35,8 +35,7 @@ These instructions will help you get a copy of the project up and running on you
 ```
 git clone https://github.com/noshad76/maze_solver_flutter.git
 
-
-
+```
 **Navigate to the project directory:**
 ```
 cd maze_solver_flutter
